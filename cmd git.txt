@@ -1,0 +1,22 @@
+git clone: Clona um repositório do GitHub para o seu computador.
+
+git add: Adiciona arquivos às mudanças a serem confirmadas (staging area).
+
+git commit: Confirma as mudanças adicionadas ao repositório.
+
+git push: Envia as mudanças confirmadas para um repositório remoto (como o GitHub).
+
+git pull: Puxa as mudanças mais recentes do repositório remoto para o seu repositório local.
+
+git branch: Lista, cria ou exclui branches (ramificações) no repositório.
+
+git checkout: Alterna entre diferentes branches ou versões de arquivos.
+
+git merge: Combina as alterações de uma branch em outra (normalmente usado para mesclar branches de recursos em uma branch principal).
+
+git status: Mostra o estado das mudanças no diretório de trabalho em relação ao repositório.
+
+git log: Mostra o histórico de commits no repositório.
+
+git remote: Gerencia os repositórios remotos vinculados ao seu repositório local.
+
