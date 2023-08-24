@@ -1,6 +1,6 @@
 git clone: Clona um repositório do GitHub para o seu computador.
 
-git status: mostrar os arquivos alterados 
+git status: Mostra o estado das mudanças no diretório de trabalho em relação ao repositório.
 
 git add: Adiciona arquivos às mudanças a serem confirmadas (staging area).
 
@@ -15,8 +15,6 @@ git branch: Lista, cria ou exclui branches (ramificações) no repositório.
 git checkout: Alterna entre diferentes branches ou versões de arquivos.
 
 git merge: Combina as alterações de uma branch em outra (normalmente usado para mesclar branches de recursos em uma branch principal).
-
-git status: Mostra o estado das mudanças no diretório de trabalho em relação ao repositório.
 
 git log: Mostra o histórico de commits no repositório.
 
