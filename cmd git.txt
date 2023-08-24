@@ -1,5 +1,7 @@
 git clone: Clona um repositório do GitHub para o seu computador.
 
+git status: mostrar os arquivos alterados 
+
 git add: Adiciona arquivos às mudanças a serem confirmadas (staging area).
 
 git commit: Confirma as mudanças adicionadas ao repositório.
